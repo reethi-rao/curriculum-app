@@ -1,6 +1,6 @@
-# Curriculum App — Special Needs Student Learning Portal
+# Curriculum App — Student Learning Portal
 
-A calm, easy-to-navigate web app that lets special needs students access their curriculum (basic Python programming and Wix website development) and turn in their homework — designed for laptop use.
+A calm, easy-to-navigate web app that lets students access their curriculum (basic Python programming and Wix website development) and turn in their homework — designed for laptop use.
 
 **Live demo:** add your GitHub Pages URL here once deployed, e.g. `https://<username>.github.io/<repo>/`
 
